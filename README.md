@@ -15,10 +15,15 @@ HERE AMD 64 MEANS 64 BIT VERSION IS AVAIL TO PYTHON!!!
 
 first download all wheel file supported to its requirements so list out files:
 GDAL:--https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
+
 fiona:--https://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona
+
 rtree:--https://www.lfd.uci.edu/~gohlke/pythonlibs/#rtree
+
 shapley:--https://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
+
 pyproj :--https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyproj
+
 and than downlaod geopandas
 also bokeh its great intreactive library to use
 pip install bokeh 
