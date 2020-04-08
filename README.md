@@ -3,7 +3,8 @@ Visulization of Covid _19 real time dataset using bokeh and geopandas #very usef
 so how to downlaod geopandas 
 dont go for direct pip install geopandas
 
-***** if you are having python 3.7 with 64 bit architecture than download wheel file as
+***** 
+if you are having python 3.7 with 64 bit architecture than download wheel file as
 packagename---id--cp37m-win_amd64.whl
 from below link
 *****
@@ -26,7 +27,10 @@ shapley:--https://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
 
 pyproj :--https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyproj
 
-and than downlaod geopandas
+installling above libraries and dependecies go for pip install geopandas
+
+pip install bokeh 
+
 also bokeh its great intreactive library to use
 pip install bokeh 
 go for bokeh documentation you can do better than me!!
