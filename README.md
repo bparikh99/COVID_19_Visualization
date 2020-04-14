@@ -1,6 +1,8 @@
 # COVID_19_Visualization
 Visulization of Covid _19 real time dataset using bokeh and geopandas #very useful#bokeh#geopandas
+
 so how to downlaod geopandas 
+
 dont go for direct pip install geopandas
 
 ***** 
