@@ -37,3 +37,6 @@ also bokeh its great intreactive library to use
 pip install bokeh 
 go for bokeh documentation you can do better than me!!
 
+##Image
+![plot](https://user-images.githubusercontent.com/59947941/79598060-f0e8e780-8100-11ea-8a17-713858a67e09.png)
+
