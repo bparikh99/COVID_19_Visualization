@@ -29,9 +29,12 @@ shapley:--https://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
 
 pyproj :--https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyproj
 
-installling above libraries and dependecies go for pip install geopandas
+installling above libraries and dependecies go for 
+```bash
+pip install geopandas
 
 pip install bokeh 
+```
 
 also bokeh its great intreactive library to use
 pip install bokeh 
